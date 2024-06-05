@@ -1,2 +1,2 @@
 # sitesim
-Sitesim is Websim for building websites
+Sitesim is [Websim](https://websim.ai) for building websites.
